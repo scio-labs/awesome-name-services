@@ -4,6 +4,8 @@ A curated list of decentralized name services across all blockchain ecosystems.
 
 **This list is work-in-progress and is not meant to be a complete overview yet.**
 
+🏗️ - Under Development
+
 ## Contents
 
 - [Ecosystems](#ecosystems)
@@ -16,7 +18,7 @@ A curated list of decentralized name services across all blockchain ecosystems.
 
 ### Aleph Zero
 
-* [Azero Domains `.azero`](https://azero.domains)
+* [Azero Domains `.azero`](https://azero.domains) 🏗️
 
 ### Ethereum
 
