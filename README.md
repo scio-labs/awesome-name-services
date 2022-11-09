@@ -8,10 +8,13 @@ A curated list of decentralized name services across all blockchain ecosystems.
 
 ## Contents
 
-- [Ecosystems](#ecosystems)
-  - [Aleph Zero](#aleph-zero)
-  - [Ethereum](#ethereum)
-- [Blockchain Agnostic](#blockchain-agnostic)
+- [Awesome Decentralized Name Services ![Awesome](https://awesome.re)](#awesome-decentralized-name-services-)
+  - [Contents](#contents)
+  - [Ecosystems](#ecosystems)
+    - [Aleph Zero](#aleph-zero)
+    - [Ethereum](#ethereum)
+    - [Tezos](#tezos)
+  - [Blockchain Agnostic](#blockchain-agnostic)
 
 
 ## Ecosystems
@@ -23,6 +26,10 @@ A curated list of decentralized name services across all blockchain ecosystems.
 ### Ethereum
 
 * [Ethereum Name Service (ENS) `.eth`](https://ens.domains/)
+
+### Tezos
+
+* [Tezos Domains `.tez`](https://tezos.domains/)
 
 
 ## Blockchain Agnostic
