@@ -2,35 +2,30 @@
 
 A curated list of decentralized name services across all blockchain ecosystems.
 
-**This list is work-in-progress and is not meant to be a complete overview yet.**
-
-🏗️ - Under Development
+🏗️ Not yet live
 
 ## Contents
 
-- [Awesome Decentralized Name Services ![Awesome](https://awesome.re)](#awesome-decentralized-name-services-)
-  - [Contents](#contents)
-  - [Ecosystems](#ecosystems)
-    - [Aleph Zero](#aleph-zero)
-    - [Avalanche](#avalanche)
-    - [Aptos](#aptos)
-    - [Ethereum](#ethereum)
-    - [Evmos](#evmos)
-    - [Near](#near)
-    - [Polkadot](#polkadot)
-    - [Solana](#solana)
-    - [Starknet](#starknet)
-    - [Sui](#sui)
-    - [Tezos](#tezos)
-
-  - [Blockchain Agnostic](#blockchain-agnostic)
+1. [Ecosystems](#ecosystems)
+   1. [Aleph Zero](#aleph-zero)
+   2. [Avalanche](#avalanche)
+   3. [Aptos](#aptos)
+   4. [Ethereum](#ethereum)
+   5. [EVMOS](#evmos)
+   6. [Near](#near)
+   7. [Polkadot](#polkadot)
+   8. [Solana](#solana)
+   9. [Starknet](#starknet)
+   10. [Sui (only in devnet)](#sui-only-in-devnet)
+   11. [Tezos](#tezos)
+2. [Blockchain Agnostic](#blockchain-agnostic)
 
 
 ## Ecosystems
 
 ### Aleph Zero
 
-* [Azero Domains `.azero`](https://azero.domains) 🏗️
+* [AZERO Domains (AZNS) `.azero`](https://azero.domains) 🏗️
 
 ### Avalanche
 
