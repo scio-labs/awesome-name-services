@@ -7,8 +7,6 @@ A curated list of decentralized name services across all blockchain ecosystems.
 
 ## Contents
 
-🏗️ Testnet-only
-
 1. [Ecosystems](#ecosystems)
    1. [Aleph Zero](#aleph-zero) 🏗️
    2. [Avalanche](#avalanche)
@@ -23,6 +21,7 @@ A curated list of decentralized name services across all blockchain ecosystems.
    11. [Tezos](#tezos)
 2. [Blockchain Agnostic](#blockchain-agnostic)
 
+🏗️ Testnet-only
 
 ## Ecosystems
 
