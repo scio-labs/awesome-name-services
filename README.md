@@ -4,12 +4,13 @@
 
 A curated list of decentralized name services across all blockchain ecosystems.
 
-🏗️ Not yet live
 
 ## Contents
 
+🏗️ Testnet-only
+
 1. [Ecosystems](#ecosystems)
-   1. [Aleph Zero](#aleph-zero)
+   1. [Aleph Zero](#aleph-zero) 🏗️
    2. [Avalanche](#avalanche)
    3. [Aptos](#aptos)
    4. [Ethereum](#ethereum)
@@ -18,7 +19,7 @@ A curated list of decentralized name services across all blockchain ecosystems.
    7. [Polkadot](#polkadot)
    8. [Solana](#solana)
    9. [Starknet](#starknet)
-   10. [Sui (only in devnet)](#sui-only-in-devnet)
+   10. [Sui](#sui) 🏗️
    11. [Tezos](#tezos)
 2. [Blockchain Agnostic](#blockchain-agnostic)
 
@@ -62,11 +63,11 @@ A curated list of decentralized name services across all blockchain ecosystems.
 
 * [Starknet Name Service (SNS)`.apt`](https://starknames.vercel.app/)
 
-### Sui (only in devnet)
+### Sui
 
-* [Sui Name Service (SuiNS)`.sui`](https://app.suins.io/)
-* [Sui Names (Sui Name Service)`.sui`](https://sui-names.com/)
-* [Sui Name Service (SNS)`.sui`](https://sns.domains/)
+* [Sui Name Service (SuiNS)`.sui`](https://app.suins.io/) 🏗️
+* [Sui Names (Sui Name Service)`.sui`](https://sui-names.com/) 🏗️
+* [Sui Name Service (SNS)`.sui`](https://sns.domains/) 🏗️
 
 ### Tezos
 
