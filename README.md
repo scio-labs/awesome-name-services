@@ -1,5 +1,7 @@
 # Awesome Decentralized Name Services [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Scio Labs](https://img.shields.io/badge/Scio%20Labs-We%20are%20hiring-black)](https://scio.xyz)
+
 A curated list of decentralized name services across all blockchain ecosystems.
 
 🏗️ Not yet live
